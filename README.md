@@ -57,4 +57,5 @@ Flipkart-Review-Scraper/
 └── README.md # Project documentation
 
 
-![alt text](image.png)
+<img width="1920" height="1008" alt="Screenshot 2025-11-09 164432" src="https://github.com/user-attachments/assets/09f15efe-7d47-4101-93ba-b472810a281e" />
+
